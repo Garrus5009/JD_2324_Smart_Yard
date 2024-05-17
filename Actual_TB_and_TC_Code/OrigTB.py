@@ -1,11 +1,11 @@
 ########################################################################################################
-# PROGRAM TITLE: ReceiveParsePublish.py                                                                #
-# DESCRIPTION: receives CAN data, parses and publsihes it according to the configuration file:         #
-#           CANconfig.toml                                                                             #
-# WRITTEN BY: Capstone Project Team - Deere Bus Driver                                                 #
-#             Batool Khader; Xinchen Hu; Judith Hernandez-Campillo; Haotian Wang                       #
-# CODE STATUS: code is working very well and as intended, please read the documentation report         #
-# FINALISED & VERIFIED: 18,JUN,2021                                                                    #
+# PROGRAM TITLE: OrigTB.py                                                                             #
+# DESCRIPTION: sends messages from subscribed MQTT topics to pre-defined CAN nodes using the           #
+#           configuration file: CANconfig.toml                                                         #
+# WRITTEN BY: Capstone Project Team - Smart Yard                                                       #
+#             Austin Smith; Adrienne Whitmore; Aaron James; Deonta McCluney                            #
+# CODE STATUS: code is working but not as intended, please read the documentation report for details   #
+# FINALISED & VERIFIED: 01,May,2024                                                                    #
 ########################################################################################################
 
 import os
