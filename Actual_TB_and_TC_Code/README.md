@@ -4,7 +4,7 @@ The OrigTB.py file contains the python code for the Type-B (Raspberry Pi) device
 
 The copy_Type-C (1).py file contains the python code for the Type-C (Raspberry Pi) device, which contains the code that allows for MQTT/BLE communication between Type-A and Type-C, as well as MQTT communication between Type-C and Type-B.
 
-The flows (10).json file contains the NodeRed flow structure, with all nodes that allow for the influx of information from all device types, and a way to display this incoming information and display it on a dashboard. NodeRed currently is set up to run from the Type-B device.
+The flows (11).json file contains the NodeRed flow structure, with all nodes that allow for the influx of information from all device types, and a way to display this incoming information and display it on a dashboard. NodeRed currently is set up to run from the Type-B device.
 
 The Arduino folder contains the following files:
 
