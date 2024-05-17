@@ -1,0 +1,156 @@
+[0]
+id = "0x770"
+topic = 'TypeA/arduino1/sensors/humidity'
+freq = "Always"
+N = 0
+
+[1]
+id = "0x550"
+topic = 'TypeA/arduino1/sensors/temp'
+freq = "Always"
+N = 0
+
+[2]
+id = "0x220"
+topic = 'TypeA/arduino1/sensors/soil'
+freq = "Always"
+N = 0
+
+[3]
+id = "0x110"
+topic = 'TypeA/arduino1/sensors/ultrasonic'
+freq = "Always"
+N = 0
+
+[4]
+id = "0x300"
+topic = 'sensors/can4'
+freq = "LessThan"
+N = 1000
+
+[5]
+id = "0x15b"
+topic = 'TypeA/arduino1/sensors/humidity'
+freq = "EverySeconds"
+N = 70
+
+[6]
+id = "0x642"
+topic = 'TypeA/arduino1/sensors/humidity'
+freq = "GreaterThan"
+N = 300
+
+[7]
+id = "0xa4"
+topic = 'TypeA/arduino1/sensors/humidity'
+freq = "SmallerThan"
+N = 40
+
+[8]
+id = "0x772"
+topic = 'TypeA/arduino2/sensors/humidity'
+freq = "Always"
+N = 0
+
+[9]
+id = "0x552"
+topic = 'TypeA/arduino2/sensors/temp'
+freq = "Always"
+N = 0
+
+[10]
+id = "0x222"
+topic = 'TypeA/arduino2/sensors/soil'
+freq = "Always"
+N = 0
+
+[11]
+id = "0x112"
+topic = 'TypeA/arduino2/sensors/ultrasonic'
+freq = "Always"
+N = 0
+
+[12]
+id = "0x774"
+topic = 'TypeA/arduino3/sensors/humidity'
+freq = "Always"
+N = 0
+
+[13]
+id = "0x554"
+topic = 'TypeA/arduino3/sensors/temp'
+freq = "Always"
+N = 0
+
+[14]
+id = "0x224"
+topic = 'TypeA/arduino3/sensors/soil'
+freq = "Always"
+N = 0
+
+[15]
+id = "0x114"
+topic = 'TypeA/arduino3/sensors/ultrasonic'
+freq = "Always"
+N = 0
+
+[16]
+id = "0x776"
+topic = 'TypeA/arduino4/sensors/humidity'
+freq = "Always"
+N = 0
+
+[17]
+id = "0x556"
+topic = 'TypeA/arduino4/sensors/temp'
+freq = "Always"
+N = 0
+
+[18]
+id = "0x226"
+topic = 'TypeA/arduino4/sensors/soil'
+freq = "Always"
+N = 0
+
+[19]
+id = "0x116"
+topic = 'TypeA/arduino4/sensors/ultrasonic'
+freq = "Always"
+N = 0
+
+[20]
+id = "0x372"
+topic = 'TypeC/sensors/humidity'
+freq = "Always"
+N = 0
+
+[21]
+id = "0x145"
+topic = 'TypeC/sensors/temp'
+freq = "Always"
+N = 0
+
+[22]
+id = "0x198"
+topic = 'TypeC/sensors/soil'
+freq = "Always"
+N = 0
+
+[23]
+id = "0x171"
+topic = 'TypeC/sensors/ultrasonic'
+freq = "Always"
+N = 0
+
+[24]
+id = "0x158"
+topic = 'TypeC/sensors/rainwater'
+freq = "Always"
+N = 0
+
+[25]
+id = "0x166"
+topic = 'TypeA/arduino4/sensors/rainwater'
+freq ="Always"
+N = 0
+
