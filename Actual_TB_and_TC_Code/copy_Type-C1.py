@@ -1,11 +1,11 @@
 ########################################################################################################
-# PROGRAM TITLE: SubscribeSend.py                                                                      #
+# PROGRAM TITLE: copy_Type-C1.py                                                                       #
 # DESCRIPTION: sends messages from subscribed MQTT topics to pre-defined CAN nodes using the           #
 #           configuration file: CANconfig.toml                                                         #
-# WRITTEN BY: Capstone Project Team - Deere Bus Driver                                                 #
-#             Batool Khader; Xinchen Hu; Judith Hernandez-Campillo; Haotian Wang                       #
+# WRITTEN BY: Capstone Project Team - Smart Yard                                                       #
+#             Austin Smith; Adrienne Whitmore; Aaron James; Deonta McCluney                            #
 # CODE STATUS: code is working but not as intended, please read the documentation report for details   #
-# FINALISED & VERIFIED: 18,JUN,2021                                                                    #
+# FINALISED & VERIFIED: 01,May,2024                                                                    #
 ########################################################################################################
 
 from __future__ import print_function
